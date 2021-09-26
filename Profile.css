@@ -1,0 +1,83 @@
+h1{
+    color:black; 
+    font-size:60px; 
+    text-align:center;
+    border: 2px solid black;
+    margin-top:-5px;
+}
+body{
+    background-image:url('Background.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+h2{
+    text-align:center;
+     font-size:50px;
+     border: 2px solid black;
+   
+}
+
+#personal{
+    background-color:white;
+    border:2px solid black;
+    margin-right:130px;
+  
+    
+}
+td{
+    font-size:25px;
+   
+    padding:  10px 30px;
+    color:black;
+    text-decoration: none;
+}
+#img{
+    background-color:black;
+    padding:0px 0px 0px 0px;
+ 
+}
+.Link{
+    padding-top:20px;
+    padding-bottom:20px;
+    background-color: white;
+    border:2px solid black;
+   
+   
+}
+.Profiles{
+    padding-top:20px;
+    padding-bottom:20px;
+    border:2px solid black;
+    background-color: black;
+    color:white;
+  
+ 
+}
+#list{
+    font-size:30px;
+    border-bottom: 2px solid black;
+    
+}
+h3{
+    text-align:center; 
+    font-size:50px;
+}
+h4{text-align:center; 
+    font-size:50px;
+    
+}
+em{
+    font-size:25px;
+}
+.Desc{
+    
+    color:green;
+    font-family: cursive;
+}
+#Skill-Set{
+    background-color: white;
+    margin-left:400px;
+    margin-right:100px;
+}
+
